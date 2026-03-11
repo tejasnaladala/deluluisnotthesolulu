@@ -1,0 +1,11 @@
+# deluluisnotthesolulu
+# No external dependencies - pure Python + Ollama
+#
+# Required:
+#   - Python 3.8+
+#   - Ollama (https://ollama.com) running locally
+#   - Models: qwen2.5:32b (analysis), minicpm-v:8b (screenshot OCR)
+#
+# Install Ollama models:
+#   ollama pull qwen2.5:32b
+#   ollama pull minicpm-v:8b

@@ -1,0 +1,38 @@
+# Database
+mixed_signals.db
+
+# Screenshots (user data, not for git)
+screenshots/*.png
+screenshots/*.jpg
+screenshots/*.jpeg
+screenshots/*.PNG
+screenshots/*.JPG
+screenshots/*.JPEG
+screenshots/processed/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Internal docs
+docs/
