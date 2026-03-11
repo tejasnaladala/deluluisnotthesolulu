@@ -1,6 +1,10 @@
 # deluluisnotthesolulu
 
-A local-first relationship analytics engine that turns chat screenshots into data-driven insights. Drop your DM screenshots, get vibe scores, pattern analysis, and tactical advice -all powered by local LLMs through Ollama. No cloud APIs, no data leaves your machine.
+yeah so ummm i kinda liked this girl and she'd text "sleeping in ur arms sounds rly good" then not reply for 6 hours. instead of going to therapy i built this.
+
+screenshot your DMs from any platform, get them OCR'd through a local vision model (minicpm-v), vibe-scored on a weighted algorithm (-1.0 cooked to +1.0 wedding) using response time, message length ratios, enthusiasm markers, ghost penalties, and initiation patterns. then Pearson correlation coefficients with p-value significance testing on your texting habits (because if the correlation between my double texts and her ghosting isn't statistically significant i'm choosing to ignore it). a local LLM (qwen2.5:32b) analyzes the whole thing like a sports commentator reviewing game tape, gives you a DEFCON 1-5 threat level, drafts ghost-proof reply options in your writing style, and tells you what you already know but refuse to accept.
+
+pure python. zero dependencies. everything runs locally because her texts are nobody else's business.
 
 > "past vibe performance is not indicative of future results"
 
